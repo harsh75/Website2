@@ -1,5 +1,4 @@
 ﻿
-
 (function ($) {
     "use strict";
 
@@ -265,7 +264,7 @@
         out: {
             effect: 'hinge',
             delayScale: 1.5,
-            delay: 100,
+            delay: 50,
             sync: false,
             reverse: false,
             shuffle: false,
